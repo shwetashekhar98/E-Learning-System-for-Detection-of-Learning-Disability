@@ -1,0 +1,4 @@
+green yellow red blue orange,100%
+saturday,tuesday,sunday,friday,wednesday,100%
+1765,1770,1772,1773,1774,100%
+
